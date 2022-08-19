@@ -1,10 +1,11 @@
 {
-  "name": "treasure-hunt-project",
-  "version": "0.1.0",
+  "name": "y",
+  "version": "y",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "react-scripts": "2.1.8"
@@ -23,5 +24,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "main": "y",
+  "repository": "y",
+  "author": "y",
+  "license": "y",
+  "description": "y"
 }
